@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KaishAli/react-Weather-App/static/css/main.a3cec4e3.css",
+    "main.js": "/KaishAli/react-Weather-App/static/js/main.6cc080df.js",
+    "static/js/787.b31b80ec.chunk.js": "/KaishAli/react-Weather-App/static/js/787.b31b80ec.chunk.js",
+    "index.html": "/KaishAli/react-Weather-App/index.html",
+    "main.a3cec4e3.css.map": "/KaishAli/react-Weather-App/static/css/main.a3cec4e3.css.map",
+    "main.6cc080df.js.map": "/KaishAli/react-Weather-App/static/js/main.6cc080df.js.map",
+    "787.b31b80ec.chunk.js.map": "/KaishAli/react-Weather-App/static/js/787.b31b80ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3cec4e3.css",
+    "static/js/main.6cc080df.js"
+  ]
+}
